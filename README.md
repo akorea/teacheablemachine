@@ -12,4 +12,5 @@ aiev3 : EV3 Programs
 
 run.bat : Run AI Web server
 
-This program is a Handsontech's educational program.
+
+Handsontech's educational program.
